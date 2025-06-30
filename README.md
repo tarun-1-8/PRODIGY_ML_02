@@ -67,7 +67,8 @@ A 2D scatter plot showing how customers are segmented into different groups base
 B.Tech CSE | K.R. Mangalam University  
 Machine Learning Intern @ Prodigy InfoTech  
 GitHub: [tarun-1-8](https://github.com/tarun-1-8)  
-LinkedIn: [Tarun Sharma](https://www.linkedin.com/in/tarun-sharma-1-8/)
+LinkedIn: [Tarun Sharma](www.linkedin.com/in/
+tarun-sharma-987a6332b)
 
 ---
 
